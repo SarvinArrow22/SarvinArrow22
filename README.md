@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 HI, I'M ARISE!
+# 👋 HI, I'M MELVIN DINO ESQUIVEL!
 
 ### SOFTWARE DEVELOPER | IT DEGREE HOLDER
 
